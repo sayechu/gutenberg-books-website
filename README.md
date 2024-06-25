@@ -1,6 +1,6 @@
 # BookShelf
 
-Boolshelf is a website that allows users to browse and download books from the Gutenberg Project. Built with TypeScript, it fetches book data from the [Gutendex API](https://gutendex.com/).
+Boolshelf is a website that allows users to browse and download books from the Gutenberg Project. Built in `React` with `TypeScript`, it fetches book data from the [Gutendex API](https://gutendex.com/).
 
 - [BookShelf on Netlify](https://gutendexbooks.netlify.app/)
 - [BookShelf on Vercel](https://gutendex-api.vercel.app/)
@@ -19,8 +19,8 @@ Boolshelf is a website that allows users to browse and download books from the G
 
 1. Clone the repository:
    ```sh
-   git clone git@github.com:sayechu/gutenberg-bookshelf-website.git
-   cd gutenberg-bookshelf-website
+   git clone git@github.com:sayechu/react-bookshelf-website.git
+   cd react-bookshelf-website
    ```
 2. Install dependencies:
     ```sh
