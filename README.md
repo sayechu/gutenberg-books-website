@@ -30,7 +30,7 @@ Boolshelf is a website that allows users to browse and download books from the G
     ```sh
    npm run dev
     ```
-4. Open http://localhost:3000 to view it in the browser.
+4. Open http://localhost:5173 to view it in the browser.
 
 ## Deployment
 This project is published and can be accessed online:
